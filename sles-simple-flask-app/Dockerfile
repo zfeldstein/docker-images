@@ -1,3 +1,4 @@
+#https://hub.docker.com/repository/docker/zfeldstein/sles-simple-flask-app
 FROM registry.suse.com/bci/bci-base:15.3
 COPY . /app
 WORKDIR /app
